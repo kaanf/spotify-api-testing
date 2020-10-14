@@ -22,7 +22,7 @@ import com.spotify.sdk.android.authentication.AuthenticationResponse;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String CLIENT_ID = "c177d243675c4b919afb94dad4d0454a";
+    private static final String CLIENT_ID = "";
     private static final String REDIRECT_URI = "http://com.example.spotifyapi_example/callback";
 
     private SpotifyAppRemote mSpotifyAppRemote;
